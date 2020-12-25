@@ -1,5 +1,5 @@
 # Digital-Clock!
-[![Foo]](http://singularity.rf.gd)
+![](https://freesvg.org/img/Angry-Linux.png)
 ## Tune in for more github projects :>
 ---
 ___
