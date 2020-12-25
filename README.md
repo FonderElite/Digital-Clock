@@ -1,5 +1,5 @@
 # Digital-Clock!
-(https://freesvg.org/img/Angry-Linux.png)
+### An awesome digitalized clock that works!!!
 ## Tune in for more github projects :>
 ---
 ___
